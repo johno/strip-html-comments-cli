@@ -33,6 +33,7 @@
     "write-file-stdout": "0.0.2"
   },
   "devDependencies": {
-    "ava": "*"
+    "ava": "*",
+    "pify": "^2.3.0"
   }
 }
