@@ -2,7 +2,7 @@
   "name": "strip-html-comments-cli",
   "description": "Strip HTML comments from a string.",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "cli.js",
   "files": [
     "cli.js"
